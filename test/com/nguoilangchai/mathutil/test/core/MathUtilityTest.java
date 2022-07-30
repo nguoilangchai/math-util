@@ -14,7 +14,7 @@ public void testGetFactorialGivenRightArgumentReturnsWell(){
     
     Assert.assertEquals(expected, actual);
     
-    Assert.assertEquals(1, MathUtil.getFactorial(0));
+    Assert.assertEquals(12, MathUtil.getFactorial(0));
     Assert.assertEquals(2, MathUtil.getFactorial(2));
     Assert.assertEquals(6, MathUtil.getFactorial(3));
 }
