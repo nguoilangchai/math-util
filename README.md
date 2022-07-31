@@ -10,6 +10,6 @@ Technique
 * ...
 
 ### Screen shot:
-![JUnit-TDD](https://github.com/nguoilangchai/MathUtil/blob/main/images/FactorialTest.PNG)
+![DDT & TDD with JUnit](https://github.com/nguoilangchai/math-util/blob/main/views/DDT%20with%20JUnit.png)
 
 © 2022 nguoilangchai | www.facebook.com/nguoilangchaii/
