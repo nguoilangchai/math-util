@@ -4,8 +4,8 @@ import com.nguoilangchai.mathutil.core.MathUtil;
 
 public class Main {
     public static void main(String[] args) {
-        long s1 = MathUtil.getFactorial(1);
-        System.out.println("1! la : " + s1);
+        long s1 = MathUtil.getFactorial(5);
+        System.out.println("5! la : " + s1);
         
 //        long s2 = MathUtil.getFactorial(0);
 //        System.out.println("0! la : " + s2);
